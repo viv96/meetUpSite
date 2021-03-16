@@ -1,18 +1,14 @@
-# Building a website with Node.js and Express
+# A Meet-up Event site using Node and Express
 
-This repository contains the code for my course 'Building a Website with Node.js Node.js' on [LinkedIn Learning](https://www.linkedin.com/learning/building-a-website-with-node-js-and-express-js-3).
+![The main page UI of the Meet-up page](https://github.com/viv96/meetUpSite/blob/master/main_page.JPG)
 
-The master branch contains the initial version to get started with, while the branches contain the state of the code at the beginning (e.g. 02_02**b**) and end (e.g. 02_02**e**) of a video.
+![The feedback forms for the Event](https://github.com/viv96/meetUpSite/blob/master/feedback.JPG)
 
-## Setting up the project
+This Project uses the following technologies:
 
-* In your terminal, create directory `building-website-nodejs-express` and **change into it**.
-* Run 
-  ```bash
-  git clone --bare git@github.com:danielkhan/building-website-nodejs-express.git .git
-  git config --bool core.bare false
-  git reset --hard
-  git branch
-  ```
-  
-Everything else will be discussed in my course.
+- Express and Node for the backend
+- Bootstrap for the frontend
+
+This Project has been referred from LinkedIn Author: [Daniel Khan] (https://www.linkedin.com/learning/instructors/daniel-khan?u=2104756)
+
+DISCLAIMER: All images that have been used for this project have been referred from an open and free source through Lynda learning platform.
